@@ -1,0 +1,74 @@
+Got 1000209 ratings from 6040 users on 3706 movies.
+Training: 801177, test: 199049
+
+When K = 2, the value of CH index is 266.611014257.
+When K = 3, the value of CH index is 598.249673732.
+When K = 4, the value of CH index is 321.471239126.
+When K = 5, the value of CH index is 294.586510884.
+When K = 6, the value of CH index is 569.204513336.
+When K = 7, the value of CH index is 604.740947597.
+When K = 8, the value of CH index is 466.748149956.
+When K = 9, the value of CH index is 265.762315011.
+When K = 10, the value of CH index is 270.741350697.
+When K = 11, the value of CH index is 393.574663057.
+When K = 12, the value of CH index is 499.847693142.
+When K = 13, the value of CH index is 357.398080067.
+When K = 14, the value of CH index is 354.850968581.
+When K = 15, the value of CH index is 381.589562488.
+When K = 16, the value of CH index is 376.326405599.
+When K = 17, the value of CH index is 378.189769478.
+When K = 18, the value of CH index is 289.987754659.
+When K = 19, the value of CH index is 324.988450042.
+When K = 20, the value of CH index is 349.808283417.
+We get the best K-Means Model when K = 7, the value of CH index is 349.808283417.
+The best K-Means model was trained with K = 7, and its RMSE on the test set is 2.0095.
+ 1: Four Rooms (1995)
+ 2: Assassins (1995)
+ 3: Persuasion (1995)
+ 4: Across the Sea of Time (1995)
+ 5: Seven (Se7en) (1995)
+ 6: Usual Suspects, The (1995)
+ 7: Lawnmower Man 2: Beyond Cyberspace (1996)
+ 8: Screamers (1995)
+ 9: Nico Icon (1995)
+10: Heidi Fleiss: Hollywood Madam (1995)
+11: Unforgettable (1996)
+12: Catwalk (1995)
+13: Anne Frank Remembered (1995)
+14: Young Poisoner's Handbook, The (1995)
+15: Jupiter's Wife (1994)
+16: Jade (1995)
+17: Sonic Outlaws (1995)
+18: From the Journals of Jean Seberg (1995)
+19: Man of the Year (1995)
+20: Addiction, The (1995)
+21: Crumb (1994)
+22: Devil in a Blue Dress (1995)
+23: Lord of Illusions (1995)
+24: Mute Witness (1994)
+25: Net, The (1995)
+26: Prophecy, The (1995)
+27: Safe (1995)
+28: Show, The (1995)
+29: Species (1995)
+30: Tie That Binds, The (1995)
+31: Unzipped (1995)
+32: Wild Bill (1995)
+33: Castle Freak (1995)
+34: Dream Man (1995)
+35: Hideaway (1995)
+36: Hoop Dreams (1994)
+37: Just Cause (1995)
+38: Poison Ivy II (1995)
+39: Relative Fear (1994)
+40: Shallow Grave (1994)
+41: Suture (1993)
+42: Tales From the Crypt Presents: Demon Knight (1995)
+43: Village of the Damned (1995)
+44: Underneath, The (1995)
+45: Virtuosity (1995)
+46: Wonderful, Horrible Life of Leni Riefenstahl, The (Die Macht der Bilder) (1993)
+47: Wes Craven's New Nightmare (1994)
+48: Red Rock West (1992)
+49: Wyatt Earp (1994)
+50: Fear, The (1995)

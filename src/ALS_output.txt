@@ -1,0 +1,66 @@
+Got 1000209 ratings from 6040 users on 3706 movies.
+Training: 602258, validation: 198919, test: 199049
+
+RMSE (validation) = 0.880743 for the model trained with rank = 8, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.872944 for the model trained with rank = 8, lambda = 0.1, and numIter = 20.
+RMSE (validation) = 3.755870 for the model trained with rank = 8, lambda = 10.0, and numIter = 10.
+RMSE (validation) = 3.755870 for the model trained with rank = 8, lambda = 10.0, and numIter = 20.
+RMSE (validation) = 0.878571 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.871190 for the model trained with rank = 12, lambda = 0.1, and numIter = 20.
+RMSE (validation) = 3.755870 for the model trained with rank = 12, lambda = 10.0, and numIter = 10.
+RMSE (validation) = 3.755870 for the model trained with rank = 12, lambda = 10.0, and numIter = 20.
+The best ALS model was trained with rank = 12 and lambda = 0.1, and numIter = 20, 
+and its RMSE on the test set is 0.869479.The best model improves the baseline by 21.92%.
+
+Movies recommended for you:
+total=50
+ 1: Surf Nazis Must Die (1987)
+ 2: Battling Butler (1926)
+ 3: Cleo From 5 to 7 (Clo de 5  7) (1962)
+ 4: Specials, The (2000)
+ 5: Harmonists, The (1997)
+ 6: Whatever (1998)
+ 7: James Dean Story, The (1957)
+ 8: Conceiving Ada (1997)
+ 9: Education of Little Tree, The (1997)
+10: Wide Awake (1998)
+11: Two Thousand Maniacs! (1964)
+12: Henry: Portrait of a Serial Killer, Part 2 (1996)
+13: Ballad of Narayama, The (Narayama Bushiko) (1958)
+14: Kid, The (1921)
+15: Inspector General, The (1949)
+16: Official Story, The (La Historia Oficial) (1985)
+17: Two or Three Things I Know About Her (1966)
+18: Barefoot Executive, The (1971)
+19: Bewegte Mann, Der (1994)
+20: Bandit Queen (1994)
+21: Lady Eve, The (1941)
+22: Relax... It's Just Sex (1998)
+23: Hairspray (1988)
+24: Trouble in Paradise (1932)
+25: Guys and Dolls (1955)
+26: Going My Way (1944)
+27: Bootmen (2000)
+28: Jonah Who Will Be 25 in the Year 2000 (1976)
+29: Trekkies (1997)
+30: Theory of Flight, The (1998)
+31: Deterrence (1998)
+32: Haunted World of Edward D. Wood Jr., The (1995)
+33: Black Beauty (1994)
+34: Saragossa Manuscript, The (Rekopis znaleziony w Saragossie) (1965)
+35: Marcello Mastroianni: I Remember Yes, I Remember (1997)
+36: Paris Is Burning (1990)
+37: Stiff Upper Lips (1998)
+38: Fantastic Planet, The (La Plante sauvage) (1973)
+39: Damsel in Distress, A (1937)
+40: Great Dictator, The (1940)
+41: Sum of Us, The (1994)
+42: Eyes of Tammy Faye, The (2000)
+43: Otello (1986)
+44: Firelight (1997)
+45: See the Sea (Regarde la mer) (1997)
+46: Lady Vanishes, The (1938)
+47: I'm the One That I Want (2000)
+48: Killing of Sister George, The (1968)
+49: Cabaret Balkan (Bure Baruta) (1998)
+50: Corrina, Corrina (1994)
